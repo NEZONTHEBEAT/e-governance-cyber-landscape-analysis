@@ -1,0 +1,14 @@
+# Week 3 — Policy and Regulation Framework Development
+
+**Deliverable:** `Week3_Policy_Framework.docx`
+
+This is an illustrative internship/academic policy framework for a hypothetical public-sector digital-service environment. It is not an approved government policy and does not claim that a real system has been audited. Validate legal applicability, commencement timelines and system-specific controls before operational adoption.
+
+Included: policy rationale, scope, security guidelines, roles and responsibilities, incident handling, regulatory considerations, compliance evidence, metrics, review process, implementation roadmap and example risk register.
+
+References:
+- CERT-In Directions: https://www.cert-in.org.in/Directions70B.jsp
+- DPDP Act 2023: https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf
+- DPDP Rules 2025: https://www.meity.gov.in/documents/act-and-policies/digital-personal-data-protection-rules-2025-gDOxUjMtQWa
+- OWASP Top 10:2025: https://top10.owasp.org/2025/
+- NIST Cybersecurity Framework: https://www.nist.gov/cyberframework
